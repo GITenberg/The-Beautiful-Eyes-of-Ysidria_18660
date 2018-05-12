@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '8175'
     url: http://www.gutenberg.org/2009/agents/8175
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18660#The-Beautiful-Eyes-of-Ysidria
 gutenberg_bookshelf: Western
 gutenberg_issued: '2006-06-23'
 gutenberg_type: Text
